@@ -1,0 +1,146 @@
+.banniere{
+background: linear-gradient(#8E44AD, #BDC3C7, #f10f6d);
+width: 1400px;
+height: 250px;
+text-align: center;
+
+}
+
+
+
+ body font{
+    
+    background: url(image/image.png);
+   }
+   body{
+    text-align: center;
+    line-height: center;
+    }
+footer{
+    width: 100%;
+    border: #f10f6d solid 1px;
+}
+* {
+    text-decoration: none;
+    list-style-type: none;
+}
+.menu{
+    display: flex;
+}
+.menu li a{
+    margin: 10px;
+}
+form{
+    background:url(/images/image.png) ;
+}
+.font{
+    background-color:rgb(196, 224, 243);
+    width: auto;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.text{
+    
+    width: 1400x;
+    height: 1200px;
+    font-family: "Rubik", sans-serif;
+    font-size:  28px;
+    gap: 50%;
+    background: #FFB6C1;
+    background: linear-gradient( #FFB6C1 ,#f8e4e7 )
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.soft-skills{
+display: flex;
+justify-content: space-around;
+padding-left: 5%;
+padding-right: 5%;
+gap: 30px;
+border-radius: 10%;
+background:pink;
+border: 2px solid;
+}
+.soft-skill{
+   
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+ font-family: "Roboto", sans-serif;
+    
+    overflow: hidden;
+}
+.soft-skill-image{
+    height: 200px;
+}
+.about{
+    background:rgb(247, 158, 173);
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.parcours{
+    font-family: "Poppins", sans-serif;
+ border:2px solid; 
+ font-size:30px ;
+ border-radius: 15% ;
+ background:pink;
+ 
+ }
+
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+.langages{
+    font-family: "Emblema One", system-ui;
+}
+.langage{
+
+    border-radius: 40%;
+    border: 2px solid;
+    font-size: 20px;
+    background-color:pink;
+    
+}
+.photo{
+    width: 400px;  
+    border-radius:15% ;
+   
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.projets{
+    font-family: "Rubik", sans-serif;
+    display: flex;
+    justify-content: space-around;
+    gap: 4%;
+    border-radius: 10%;
+    background: rgb(164, 222, 233);
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 15px;
+    
+}
+.projet{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+
+}
+.projects{
+    background: rgb(97, 127, 190);
+}
+
+ul li a :hover{
+    color:rgb(50, 132, 187);
+}
+.index{
+    font-size: 13px;
+}
+.body{
+    background: #FFB6C1;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+    .intérêts{
+        font-family: "Rubik", sans-serif;
+        font-size: 20px;
+    }
